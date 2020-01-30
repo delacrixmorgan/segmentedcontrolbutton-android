@@ -1,4 +1,6 @@
  # iOS Segmented Control Buttons with RadioGroup in Android
+ 
+ ![Overview](https://miro.medium.com/max/720/1*08U6NBFpuPvhEtnGOxCgMQ.jpeg)
 
 What is Segmented Control Buttons you might ask, it’s actually a native iOS UIView. Basically, you are able to select an option just like a **RadioButton**.
 
