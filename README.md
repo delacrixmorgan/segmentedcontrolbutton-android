@@ -12,4 +12,4 @@ So, besides using the legacy input of a **Dropdown Menu** or a **Popup Menu** be
 
 Let’s build your first **Segmented Control Buttons** to bring some fun back to form filling again!
 
-[Medium Article - iOS Segmented Control Buttons with RadioGroup in Android](https://medium.com/bugless/ios-segmented-control-buttons-with-radiogroup-in-android-8968629c200)
+[Medium - iOS Segmented Control Buttons with RadioGroup in Android](https://medium.com/bugless/ios-segmented-control-buttons-with-radiogroup-in-android-8968629c200)
